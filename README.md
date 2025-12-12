@@ -55,8 +55,8 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Blog-Site-UI.git
-cd Blog-Site-UI
+git clone https://github.com/apollodev1107-star/Jiatendo-Network.git
+cd Jiatendo-Network
 ```
 
 ### 2. Install Dependencies
@@ -108,7 +108,7 @@ npm start
 ## 📁 Project Structure
 
 ```
-Blog-Site-UI/
+Jiatendo-Network/
 ├── public/                 # Static assets
 │   ├── blog/              # Blog images
 │   ├── images/            # General images
@@ -182,7 +182,7 @@ See the [LICENSE](LICENSE) file for more details.
 Join our community to get support, share ideas, and connect with other developers:
 
 - **Discord**: [Join our Discord server](https://discord.gg/jiatendo) (supports all languages!)
-- **GitHub**: [Report issues or suggest features](https://github.com/yourusername/Blog-Site-UI/issues)
+- **GitHub**: [Report issues or suggest features](https://github.com/apollodev1107-star/Jiatendo-Network/issues)
 
 ## 🙏 Acknowledgments
 
@@ -196,6 +196,6 @@ For questions, support, or collaboration opportunities, please reach out through
 
 ---
 
-**Made with ❤️ by the Jiatendo Network Team**
+**Made with ❤️ by Apollo & the Jiatendo Network Team**
 
 *"The Ultimate Jias lives in every gamer's soul."*
